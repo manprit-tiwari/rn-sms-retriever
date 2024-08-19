@@ -241,7 +241,7 @@ PODS:
     - React-cxxreact (= 0.62.2)
     - React-jsi (= 0.62.2)
     - ReactCommon/callinvoker (= 0.62.2)
-  - rn-sms-retriever (1.1.1):
+  - rn-sms-retriever (1.2.1):
     - React
   - Yoga (1.14.0)
 
@@ -360,9 +360,9 @@ SPEC CHECKSUMS:
   React-RCTText: fae545b10cfdb3d247c36c56f61a94cfd6dba41d
   React-RCTVibration: 4356114dbcba4ce66991096e51a66e61eda51256
   ReactCommon: ed4e11d27609d571e7eee8b65548efc191116eb3
-  rn-sms-retriever: 2f360b1f31b08b6443577612f155c44cbaabe169
+  rn-sms-retriever: efae2761f7015cc783d49af8de9daebcdae1622c
   Yoga: 3ebccbdd559724312790e7742142d062476b698e
 
 PODFILE CHECKSUM: 537286354322cd4ddcf3975c5972ffab0cbb6d76
 
-COCOAPODS: 1.9.3
+COCOAPODS: 1.15.2

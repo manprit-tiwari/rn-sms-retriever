@@ -3,10 +3,10 @@ import {
   StyleSheet,
   View,
   DeviceEventEmitter,
-  EmitterSubscription,
   Platform,
   Text,
 } from 'react-native';
+import type { EmitterSubscription } from 'react-native';
 import RnSmsRetriever, { SMS_EVENT } from 'rn-sms-retriever';
 
 export default function App() {
